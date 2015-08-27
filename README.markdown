@@ -7,7 +7,7 @@ My personal blog which lives at [http://www.timhordern.com](http://www.timhorder
 
 Dependencies:
 
-* `ruby-2.2.1`
+* `ruby-2.2.3`
 
 Installation:
 
