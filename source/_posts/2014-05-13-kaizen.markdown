@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Kaizen"
+date: 2014-05-13 18:45
+comments: true
+published: true
+author: Tim Hordern
+categories:
+- product development
+- product management
+- team
+- agile
+description: "Great teams practice kaizen."
+keywords: "kaizen, continuous improvement, product development, agile, agile teams, product teams"
+---
+
+> ## **kai·zen** (改善)
+  **noun**<br>
+  1. a business philosophy or system that is based on making positive changes on a regular basis, as to improve productivity.<br>
+  2. an approach to one’s personal or social life that focuses on continuous improvement.<br>
+  Origin: Japanese: "change for the best" or ‘continuous improvement’
+
+If you learn nothing else about great teams, know this: great teams practice kaizen.
+
+They might practice it consciously (by running retrospectives, holding reviews, etc.), or it might
+be unconscious (refactoring, removing tech debt, automating scripts, developing templates, etc.).
+But they do it **at some level**.
+
+Don't just think that agile magically means faster shipping, or the lean startup = do more stuff.
+Each of these ideas can be boiled down to:
+
+* try something
+* review what happened
+* take (some) action
+* repeat.
+
+But don't just apply it to your product, or your tech, or your team practices in isolation. True
+kaizen requires adopting that thinking everywhere: from moving the coffee cups closer to the coffee,
+to automating your manual acceptance tests, to running user tests on your product: each of these
+have elements of trial and learning.
+
+If you're continually improving as a team across all parts of your company, you don't need to worry
+as much about marketing your recruitment pitch and you won't need to work on retention. You won't
+need to worry about how have such a great office. Give your team the flexibility to rapidly change
+and learn, and the budget and the trust to effect that change, and all of these things will happen
+organically. People will be banging on your door to work with you, because great teams attract
+great people.
+
+*Sidenote:* you should aim to hire people who think of this naturally. If you hire people who don't
+want to do this, and you don't incentivise them to think of it, they will fall back to doing the
+best of a pointless job: they'll write lots of slow code, or manually test everything, or manually
+create Excel charts for every report, because they have no reason to improve. Instead, you should
+look to identify people that help build a culture of improvement.

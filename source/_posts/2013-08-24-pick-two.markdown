@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Pick two"
+date: 2013-08-24 21:00
+comments: true
+published: true
+author: Tim Hordern
+categories:
+- software
+- projects
+- testing
+---
+
+*[Blog zero](http://timhordern.com/blog-zero/): This is an unfinished draft that I am posting. The notes below are rough. Please enjoy them as they are.*
+
+The [Project Management Triangle](http://en.wikipedia.org/wiki/Project_management_triangle) is an age-old model that tries to capture the various tradeoffs that all projects have to balance:
+
+- **cost** - the resources that a project consumes. It could be labour, technology, office space or some other cost, but the act of building something has costs. Usually, this is represented as a financial burden but you could also consider it effort.
+- **quality** - the level of the gap between requirement and function. It's the extent to which the project delivers upon the requirement. Note that this is actually different to what consumers perceive as quality.
+- **time** - how long it takes to deliver a project. This depends on your definition of when something is done.
+
+The somewhat humourous, somewhat depressing take on the three components of the project management triangle is that you can want all three components, but you can only really get two of them. One is sacrificed to allow the others to succeed.
+
+If you desire a high quality product quickly, then you must pay for it (cost is sacrificed).
+
+If you desire a cheap product quickly, then quality is sacrificed.
+
+If you desire a high quality product but you’re unwilling to throw a great deal of resources at it, then it will take a very long time.
+
+Don't forget that there are many different other dimensions to consider when considering which two you will choose:
+
+- Fit: what is the fit for purpose?
+- Finish: what is the level of detail you're going to put in? Is it a luxury product or a commodity product?
+- Function: what features does it actually have?
+- Experience: what experience do you have making this product? Have you done this before?
+- Risk: what risk does this product or project bring with it? If it fails, what does it risk? If it succeeds, what have you risked to make it succeed?
+
+A true assessment of a project's worth is this: customer value. Pick whatever two dimensions help you achieve improved customer value.

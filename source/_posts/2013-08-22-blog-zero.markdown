@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Blog Zero"
+date: 2013-08-22 15:57
+comments: true
+published: true
+author: Tim Hordern
+categories: 
+- blogging
+- organisation
+description: "Blog zero: a state where your blog drafts folder is empty."
+keywords: "blogging, blog zero, blog drafts, blog organisation, lifehack, writing, organisation"
+---
+
+It has been a tumultuous six months. I have moved around the world along with [@Tude36](https://twitter.com/tude36) to New York, and it has been quite the mission to pack up a house in one continent, move to another continent and get set up. As a reflection of this, I haven't blogged for quite a while (160 days, apparently). Heck, I only *just* managed to get internet at home, let alone talk to people at home, or start writing again.
+
+I was recently suprised when an ex-colleague and friend of mine started [blogging again after a year of silence](http://antagonisticpleiotropy.blogspot.com/). But the point of this was that he's picked it up again and it made me question why I haven't.
+
+*Side note, if you're interested in agile and software teams, I highly recommended reading Dan's series of posts on [agile smells](http://antagonisticpleiotropy.blogspot.com.au/2013/08/agile-smells.html), they're great.*
+
+I creaked open ye olde [Octopress](http://octopress.org) folder and was somewhat shocked to find 19 draft posts sitting there, dating back all the way to June 2012. Even worse, my [Evernote](https://evernote.com) folder of draft notes/ideas is up to 165 notes! For various reasons, I hadn't posted them (change of mind, half-formed thoughts, incomplete research, incomplete attributions, missing photos, etc etc etc). Clearly, I'm never going to find the time to finish all of these.
+
+Another ex-colleageue and friend of mine, [Ben Schwarz](http://germanforblack.com) once wrote a post in which he questioned himself on why he had so many unfinished projects and notes just lying around, and he just decided to post them in the hope someone else would get value out of them. And that's pretty much the point I'm at.
+
+Moving house, not to mention country, is a rather cathartic experience. You have the opportunity to critically review all the possessions in your life, both physical and digital, and decide if you actually need them. As much as a worldwide shipping service makes it easy to just pack everything up and ship it to another country (or in our case, the rather absurd amount of luggage allowance when you travel to the USA - we got 138 kilograms of luggage allowance!), services like [Dropbox](http://db.tt/WEZsof8) make it so easy to just have *all* your files come with you. And all of a sudden, you're carrying the physical and digital baggage you've always had.
+
+But the key is to clean as you pack, and to clean as you unpack.
+
+"What the hell is this thing?"
+
+"Why do we own this?"
+
+"Why do we still have this?"
+
+"Seriously, this was just a waste of money."
+
+"Why didn't you just post this?"
+
+All of these are good statements. They help the clean out process.
+
+The first step in that process for my writing is a bit of spring cleaning of old unfinished drafts. To just get them out there in the world. So that's what I'm going to try from here on in. I'll begin to post old drafts so that they're not holding me back, and hopefully someone sees the spark behind them.
+
+{% pullquote %}
+I'm going to attempt to get to **'blog zero'**. {" Blog zero: a state where your draft folder is empty. "} It's kind of similar in my mind to the concepts of [inbox zero](http://inboxzero.com/) or [email bankruptcy](http://en.wikipedia.org/wiki/Email_bankruptcy), it's about getting back to a state where you aren't constantly curating old posts, but you're always writing what's fresh in your mind. Hopefully, I can process new posts as they occur to me rather than posting the idea six months later.
+{% endpullquote %} 
+
+When I started this blog, I [wrote](http://timhordern.com/on-starting/) about how the act of starting feels like it has so many barriers, and I said that:
+
+{% blockquote %}
+One of the hardest things to do is to actually start something.
+{% endblockquote %}
+
+This still rings true. It's still *really* hard to get ideas into motion. It turns out that it's just as hard to **finish them**.
+
+<small>
+Footnote: in a random coincidence, [Glengarry Glen Ross](http://www.imdb.com/title/tt0104348/) came up today in the office, along with the famous scene on being a closer. This ain't sales, and it ain't about getting people to sign, but there's something to be said about finishing out something. It's worth a [watch](https://www.youtube.com/watch?v=AO_t7GtXO6w).
+</small>

@@ -1,0 +1,283 @@
+---
+layout: post
+title: "One More Thing 2012"
+date: 2012-07-27 11:30
+comments: true
+published: true
+author: Tim Hordern
+categories:
+- iOS
+- iPhone
+- apple
+- programming
+- product development
+- product management
+- startups
+- business
+- design
+description: "My notes from the amazing One More Thing 2012 conference - an iOS and mobile business/design conference in Melbourne."
+keywords: "One More Thing, One More Thing conference, Apple conferences, iOS conferences, conference notes, Melbourne conference, mobile conference, mobile design conference, indie developer conference"
+---
+
+I recently attended the [One More Thing 2012 Conference](http://onemorething.com.au) at the Melbourne Convention and Exhibition Centre, back on the 26th of May.
+
+One More Thing is primarily a conference about building iOS applications, but it's not a technical conference, really. The presenters are invited to relate their personal stories of designing and developing iOS applications, as well as building businesses and lives around iOS. It's more about retelling the story of how these guys got to where they are, and their tips and tricks for living in the iOS world. From a delivery point of view, all of the presenters were excellent speakers and delivered very engaging talks, and the less technical focus I think helped greatly with that (it's pretty easy for listeners to drift off in a highly technical talk).
+
+Quite a few of the presenters had incredibly well designed presentation decks (protip: get the designer on your team to do the slides for your next presentation) and I'm looking forward to seeing all the talks again when the [videos are up for sale soon](https://twitter.com/omtconf/status/213152855044014080). If you're interested, the talks from the 2011 conference are available on [Vimeo](http://vimeopro.com/omtconf/2011) and they're well worth the watch.
+
+{% img /images/posts/one-more-thing/melbourne-convention-exhibition-centre.jpg Interior of Melbourne Convention and Exhibition Centre %}
+
+*Interior of Melbourne Convention and Exhibition Centre*
+
+One More Thing also included a complimentary awesome iOS design notepad for quick paper prototyping of apps, reminiscent of [Notepods](http://inventivelabs.com.au/weblog/post/get-your-notepods/) and a really nice Artline pen (in fact, I was such a fan of the pens I went out and bought a whole set of them a few days later). It's a nice touch that the complimentary items were actually useful for attendees, rather than the usual throwaway stuff.
+
+I found this year's conference *immensely* rewarding. I really regret not making it to the [workshops](http://onemorething.com.au/mini-confs) on the previous day, as those talks looked just as good as the main conference ones were.
+
+I've copied my dot-point notes that I took during the talks here - there were plenty of great ideas and tips. I originally intended to re-write this as a more coherent story of advice and tips, but decided to just post the raw-ish notes rather than take more time.
+
+Anyway, I'll be back at One More Thing next year for sure!
+
+### TL;DR or the key lessons learnt ###
+
+* It's unlikely that your first app will be a runaway success. [Lima Sky](http://www.limasky.com) made a success out of [Doodle Jump](http://itunes.apple.com/us/app/doodle-jump-be-warned-insanely/id307727765?mt=8&ign-mpt=uo%3D6) after a producing a range of apps and learning lots of lessons. Other developers had to refine, update and promote their app for an extended period before really seeing success. One of the hardest questions was whether to abandon your idea for an app and build something else or pursue it with improvements.
+* Updates are important for some apps, but could distract from building new apps. If your app relies on continuing user engagement (or you're getting bad reviews/sales), then a new updates is a great way to bring yourself back into the game.
+* There are still lots of opportunities for building great, successful apps. But don't expect that you'll have a unique idea for an app (someone else has already probably had the idea) - it's the execution of your idea that's *everything*.
+* How do you get more sales/better reviews/more buzz? Build a better app.
+* Build apps that you love and that you'll use. Your passion will drive your excitement about building apps. That's infectious for customers, and Apple!
+* You need to market your app heavily - get involved with every blog, journalist, forums, newspapers and make sure they know what makes your app *unique*.
+* Respond to your users - building that relationship keeps them engaged and builds trust.
+* Always *fully* solve a **single** problem in the initial version of your app. That's the Apple way - to fully solve a problem. Don't half solve it. Then move on and solve another problem.
+* Delight your customers. Get them personally invested.
+
+### Igor Pušenjak, Lima Sky (Doodle Jump) ###
+
+<small>Twitter: [@LimaSky](http://twitter.com/LimaSky) | Website: [http://www.limasky.com](http://www.limasky.com)</small>
+
+* One of the big advantages to developing for the iPhone was the minimal barriers to entry for consumers on iPhone, as their credit card details are already on file via iTunes. For comparison, Palm apps required credit card details in addition. For iPhone, there's an existing customer base with 10 million users of the iPhone.
+* LimaSky built a proof of concept app - a [simple bubble wrap popping app](http://itunes.apple.com/us/app/bubble-wrap/id409695793?mt=8&ign-mpt=uo%3D4). Crazy thing is, people actually purchased it!
+* They then made another app - a [Tic-Tac-Toe app](http://itunes.apple.com/us/app/tic-tac-toe-classic/id287637213?mt=8&ign-mpt=uo%3D4). Lots of apps at that time were pursuing very high fidelity apps with lots of 3D graphics, which LimaSky felt they couldn't compete/keep up with, so Tic-Tac-Toe was conversely a simple, lo-fi app.
+* Lima Sky also decided to pursue a different market rather than big 3D games for adults and aimed to build kids games. They built an app called [Eat Bunny Eat!](http://itunes.apple.com/us/app/eat-bunny-eat!/id288453214?mt=8) that managed to not only keep kids entertained but also bizarrely made it into pubs and clubs as a bit of a laugh for adults.
+* Another app, [AniMatch](http://itunes.apple.com/us/app/animatch-animal-pairs-sounds/id293548481?mt=8) used updates very successfully to build continuing usage, releasing a new animal to match each weeks. Each update was a bite sized chunk, which drew in kids and built a continuing buzz. This increased app ratings week on week as people got excited by each new update. This was the concept of apps as *digital snacks*.
+* [Doodle Jump](http://itunes.apple.com/us/app/doodle-jump-be-warned-insanely/id307727765?mt=8&ign-mpt=uo%3D6) had a poor start but they felt that it was worth pursuing. How did they know it was a good idea? It *passed the wife test*.
+* They pushed very hard for buzz. They emailed *every* blog, not just the big ones. In their emails, they provided key information, such as *what made their app special* - *something unique*, in Doodle Jump's case, it was the little score marks on the side of the app.
+* They *continued to push updates* long after the app was 'successful'. At the time, this was pretty unusual. They continued to build the brand of the app by always asking *what else can we do to make our app stand out?*.
+* They also pursued cross-app promos. Cross-promotion with [PocketGod](http://itunes.apple.com/au/app/pocket-god/id301387274?mt=8) got the press interested because it was a novel idea, and exposed PocketGod's audience to Doodle Jump and vice versa.
+
+### Winter Wong, Quoord Systems (Tapatalk) ###
+
+<small>Twitter: [@tapatalk](http://twitter.com/tapatalk) | Website: [http://www.tapatalk.com](http://www.tapatalk.com)</small>
+
+* [Tapatalk](http://www.tapatalk.com/) is an app for accessing [vBulletin](https://www.vbulletin.com/) and other types of forums, and it needs a lot of server-side connections. Rather than trying to build it all by themselves, Winter found a like-minded partner to work on the server-side stuff, freeing them to work on the iOS client.
+* It took 7 months to get Tapatalk approved, with 10(!) rejections. Tapatalk was rejected for a whole range of reasons, including their icon resembling an iPhone, and rejected lots of times for user-generated content rejections (as Tapatalk is a forum app, it accessed lots of forums with content that Apple felt was inappropriate).
+* Tapatalk has a [distinct app name](http://itunes.apple.com/au/app/tapatalk-forum-app/id307880732?mt=8) that means searches for forum apps will pick up Tapatalk. Tapatalk also uses keywords judiciously, including piggybacking off of other popular apps such as [Flipboard](http://flipboard.com/).
+
+<small><em>Tim's note: This is actually in contradiction to the [Apple Developer Guide](https://itunesconnect.apple.com/docs/iTunesConnect_DeveloperGuide.pdf) which explicitly states not to do this, and that Apple will check for this on review. The sales boost generated might be worth the risk for your business but you definitely risk the wrath of Apple (as they could pull your app from sale at any time and ruin your business model).</small></em>
+
+* App ratings are hugely important for sales. The increase in rating from 2 stars to 4½ stars meant an 35% increase in revenue.
+* So how do you increase your rating? The simple answer is build a better app.
+* You can also use a smart process for encouraging users who like your app to rate the app ('rate us'). Don't just blindly push all users to rate your app. Users who don't like your app (bad users) will end up rating your app anyway.
+* Tapatalk invites *only high usage* users to rate their app. Of course, you don't want the rating to pop up if your app just crashed, so the usage counter resets on an app crash. Also, Quoord can also remotely turn off the rate alert if there's a known serious bug or crash.
+* Tapatalk matches users ratings to crash reports being sent. This allows them to reach out to users who emailing in crash reports. Contacting them increases feedback received about the app. They invite those users into the beta program, which gets those users involved in the process.
+* What happens if you have a poor rating? Update frequently and push new features and bug fixes. Your rating is reset on the update.
+* What happens if you have a good rating? Update *less* frequently and accumulate those good ratings. A 1000 good ratings means a 20% increase in sales.
+* Rather than build multi-lingual versions themselves, they crowd-sourced multi-lingual help using [Crowdin](http://crowdin.net/).
+* Winter had the difficulty of moving from a small independent startup into the process of building a company. Quuord built on the idea and codebase of Tapatalk by expanding into other things, such as integrating Tapatalk into other apps (especially enterprise apps) and providing an API.
+
+### Lee Armstrong, Pinkfroot (Plane Finder) ###
+
+<small>Twitter: [@lesmond](http://twitter.com/lesmond) | Website: [http://my.pinkfroot.com](http://my.pinkfroot.com)</small>
+
+* It's not enough to say "I have an idea!". The key question is "Would I use it myself?". [Ship Finder](http://my.pinkfroot.com/page/ship-finder-iphone) was built because Lee wanted to learn about the ships that passed by where Lee was living. This answered that question: yes, Lee would use that app. So maybe others would too.
+* Your app should fail connections gracefully. It should handle notifications, etc. gracefully.
+* Involve journalists early, even before your app is live! Get heavily involved with them, talk to them over email and Twitter. There is no such thing as bad press - the [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-1317184/Phone-app-tracks-planes-aid-terrorists-armed-missiles.html) claimed that [Plane Finder](http://my.pinkfroot.com/page/plane-finder-iphone) allowed terrorists with missiles to see nearby airplanes. This ridiculous claim actually drove sales up, as users wanted to see for themselves, and journalists talked about the bizarre claims.
+* It's important to grab opportunities. The Iceland volcano was a huge boon for Pinkfroot. They got an early warning of what was going on as their back-end systems started having huge volumes of traffic. It's important to ensure servers scale to handle these sort of events. Pinkfroot also pushed out press to advertise that this app was being used heavily.
+* Make sure you have consistent branding and styling, even with your company logo. Plane Finder users jumped over to Ship Finder because they loved Pinkfroot and had trust in Pinkfroot.
+* Pinkfroot also built a local community, building [my.pinkfroot.com](http://my.pinkfroot.com/). This helped in crowdsourcing from users photos of ships they had seen which was built back into the apps.
+* Users are important. Bad reviews of your app may mean you need to improve your UX or explain a feature better. Make sure that you respond to users *quickly*, via email, Twitter, Facebook.
+* Update frequently, but make sure that your update is a combination of bug fixes and new features.
+* Make sure you get some help with the accounting. International sales/tax can be confusing.
+* Pinkfroot uses [AppFigures](http://www.appfigures.com/) for sales reporting, [HockeyApp](http://www.hockeyapp.net/) for beta distribution and stores their code in [Beanstalk](http://beanstalkapp.com/). These each cost about $15 a month. Should you spend on these kind of services? Yes! It's not worth your time to stuff around with it.
+* Android doesn't make sense financially to Lee. The cost/benefit ratio of the amount of time to develop an Android app versus the revenue gained from it is really poor.
+
+### Adam Kirk, Mysterious Trousers (Calvetica) ###
+
+<small>Twitter: [@mystrou](http://twitter.com/mystrou) | Website: [http://mysterioustrousers.com](http://mysterioustrousers.com)</small>
+
+* *Design is about snobbery*. Look for the best and don't settle. There are always lots of things to improve out there.
+* It's good to have the designer and developer be different people. This allows different viewpoints.
+* The calendar app in iOS is a really poor experience at actually adding an appointment. Apple chose the Calendar UI to work for non-technical users. This design choice by Apple creates an opportunity for a new app with a different design perspective.
+
+{% img /images/posts/one-more-thing/omt-adam-kirk-iphone-calendar-design.jpg Number of steps to create a calendar appointment in the iPhone calendar %}
+
+*There are 14(!) steps in creating a calendar appointment in the iPhone calendar app*
+
+* The design of an app is a trade-off between power and simplicity. There are lots of users who want power apps, but this has the danger of feature bloat. There is still a market for apps designed for simplicity, and these apps have a whole lot less to go wrong.
+
+{% img /images/posts/one-more-thing/omt-adam-kirk-calvetica-design.jpg Number of steps to create a calendar appointment in Calvetica %}
+
+*Calvetica goes for simplicity, streamlining creating a calendar appointment*
+
+{% img /images/posts/one-more-thing/omt-adam-kirk-calvetica-ipad-design.jpg The Calvetica iPad Design %}
+
+*The Calvetica iPad Design, which pushes for intuitive, simple design*
+
+* What should you do if you have a big update/upgrade? It's probably better to release it as a separate new app. You'll take a hit from some users who have already paid for the earlier version (and you're asking them to pay for a new app), but overall the process is a lot smoother than trying to maintain separate streams of versions in a single app. If your users really like your product, they'll pay for the new version again.
+* If you build a quality app, you'll build buzz.
+
+{% img /images/posts/one-more-thing/omt-adam-kirk-design-inspiration.jpg If you are not embarrassed by the first version of your product, you've launched too late - Reid Hoffman, founder of LinkedIn %}
+
+*Reid Hoffman (founder of LinkedIn) on launching a product*
+
+* Having a unique name for your company helps. Mysterious Trousers is, well, a mysterious name.
+* Icon designs also make a difference. MT trialled some competitor apps in the App Store to see what stuck. They also ran a Facebook ad to vote on the icon design, which built further buzz about the app. The icon design also stood out on Facebook: the monochrome design of Facebook was similar to the iPhone / App Store styling.
+
+{% img /images/posts/one-more-thing/omt-adam-kirk-calvetica-icons.jpg The Calvetica icon history %}
+
+*Calvetica's icon history*
+
+* Should you build a free as well as a paid app? It's hard, you'll end up splitting your focus, which decreases the amount of time you can spend on development of your paid product.
+
+{% img /images/posts/one-more-thing/omt-adam-kirk-which-apps-make-money.jpg What percentage of apps make money %}
+
+*What percentage of apps make money? Also, a Vin Diesel venn diagram.*
+
+* Solid, frequent updates boosted sales.
+* When it comes to support, be *responsive, personable* and *accountable*.
+* Build your apps out of *passion* not for money. You will love building it, you'll continue to work on things and it's fun.
+
+{% img /images/posts/one-more-thing/omt-adam-kirk-passion.jpg Passion - it's highly contagious! %}
+
+*Passion.*
+
+* MT used interns from universities/colleges, as they were passionate about the work and cheap.
+* If you're a perfectionist, great ideas are *everywhere*.
+
+### Kepa Auwae, Rocketcat Games (Hook Champ) ###
+
+<small>Twitter: [@rocketcatgames](http://twitter.com/rocketcatgames) | Website: [http://www.rocketcat-games.com](http://www.rocketcat-games.com)</small>
+
+* Should you charge for your game? You could make your first game free. This builds your company's exposure, tests the waters and you can learn patterns for building apps. Alternatively, you could charge, which is the safe route as you make money from the start.
+* Build buzz - niche games *can* work (review sites and users like niche games, if that's their interest). Contact *everyone*. If you're building a game, have an active account on [Touch Arcade](http://toucharcade.com/) and interact with your consumers.
+* USD $2.99 is a good price point for games. More than cheap, less than expensive.
+* Cross promotion wins! Rocketcat's interaction on Touch Arcade led to another game's dev doing some fan art (of their own accord) and offered the opportunity for a cross promotion. You can also approach other developers - funnily enough, games developers like playing games!
+* Don't bother doing updates if your game isn't successful. Spend your time on a new product instead.
+* Use your old games to promote your new games. The first few days after the release of a new app are most important. There's a 3 day spread on the sales of a new product, so make sure to promote heavily to get your app up on the sales charts.
+* Don't release a game before Christmas. The big producers, such as EA, heavily discount before Christmas and run big sales. That will punish small niche games without a big presence.
+* Make sure that your app is below the download cap, which is now [up to 50MB](http://www.engadget.com/2012/03/07/apple-ups-over-the-air-download-limit-to-50mb-for-ios/). Being above the cap really kills sales, as users have to wait to get home to download your app.
+* Review coverage gets easier as your company gets bigger and you get more well-known.
+* You are not fighting the price point, or even your competitors. You are *competing for attention* - everybody already has games that they're playing.
+* Consider free with in-app purchases (IAPs). It can work.
+
+### Shaun Inman (Last Rocket) ###
+
+<small>Twitter: [@shauninman](http://twitter.com/shauninman) | Website: [http://shauninman.com](http://shauninman.com)</small>
+
+*Tim's Note: I wasn't able to take notes for this talk as I had to duck out during lunch. I caught the end of his talk with it's great 8-bit slides and took just this photo.*
+
+{% img /images/posts/one-more-thing/omt-shaun-inman.jpg Slides of 8-bit amazingness! %}
+
+*When the One More Thing video for this session is out, I'll write up my notes and update this section!*
+
+### Dave Howell, Avatron Software (Air Display) ###
+
+<small>Twitter: [@Avatron](http://twitter.com/) | Website: [http://avatron.com](http://avatron.com)</small>
+
+* Avatron has had lots of rejections for apps. Don't focus on roadblocks in Apple rejections, and trying to sneak in something that Apple said you can't do. You're in Apple's house and arguing with them that you found a loophole in their guidelines and therefore your app should be approved is a losing argument. Focus on what you *can* do and work with that.
+* Submit an acceptable app description if you need to - you can modify and tweak your app description later for better marketing speak.
+* The speed of approval is determined by the type of update: critical bug fixes are approved faster than bug fixes which are approved faster than new features.
+* Trademark your app, and your app icon.
+* Do submit your app while testing, localising the What's New, building a website, etc. Make sure to check the Hold for Developer Review. If you find bugs in your app, revoke the app and resubmit the fixed app.
+* Don't cheat and use private methods and classes. You will get rejected for it.
+* Don't change the behaviour of your app whilst it's in review (eg. hidden features).
+* Don't change the behaviour of your app based on Apple's IP range (17.x.x.x). One of the first tests that Apple does is to launch your app offline.
+* The order of discoverability is keywords > name > icon > description > screenshots.
+
+<small><em>Tim's note: this may change as Apple tweaks searching/discoverability of apps.</em></small>
+
+* Influence the influencers - influence bloggers, journalists. Write your own PR releases, or perhaps you could get an MBA intern to do it (they're cheap and eager).
+* Study the design of featured apps. Learn what made them successful.
+* Follow Apple's designs. If there is a new feature from Apple, use it. It'll increase the chance of your app being featured as Apple shows off it's new feature.
+* Always *fully* solve a single problem in version 1.0 of your app. That's the Apple way - to fully solve a problem. Don't half solve it.
+* Pick one single target market. If you have an app that works for both business people and the education market, pick one and tailor for that market.
+* You could try marketing to Apple themselves, eg. by using Facebook ads targeted to people who list themselves as working at Apple.
+
+### Julian Lepinski, Debacle Software (Pano) ###
+
+<small>Twitter: [@debaclesoftware](http://twitter.com/debaclesoftware) | Website: [http://debaclesoftware.com](http://debaclesoftware.com)</small>
+
+* As a developer, the best way to motivate your designer is to design it yourself. You'll get some great designs in a hurry after your designer sees the truly ugly thing you come up with.
+* You'll need a great team. Get people you trust with whom you can be daring and critical. That team will build upon each other's ideas.
+* Debacle copies companies, not designs. Consider how did Apple solve their problems? How do companies like [Panic](http://panic.com/) deal with their consumers? They do it clearly and efficiently. Emulate that.
+* Talk about your app *constantly*. You need *passion* for your app. Talk about why *you* love it. Remember that there *still aren't that many great apps out there*. Blogs, newspapers, journalists all love great apps that they can talk about.
+* Talk to your users, even the crazy ones. Write back to *every* email. Remember that even writing text in your apps or writing your release notes is a process of communicating with your users.
+* Don't forget that you, through a phone that is everywhere that your users are, are in a pretty intimate relationship with your users. Maintain that intimacy.
+* Don't stop or slow down. Have a lasting focus. Whatever you're doing, don't fall over - keep going!
+
+### Raphael Schaad, Flipboard ###
+
+<small>Twitter: [@raphaelschaad](http://twitter.com/raphaelschaad) | Website: [http://flipboard.com/](http://flipboard.com/)</small>
+
+* Design is like chess. You'll kill a lot of pawns before you get to the king.
+* It doesn't matter where in the world you work, but work with great people. Flipboard is based in Palo Alto, opposite where Steve Jobs used to work. The location is inspiring.
+* Flipboard makes lots of comps of their designs and they're up on the walls surrounding the team. They sweat the small designs. They argue over it. They have passion for their designs. There is a Japanese word for 'small details': kodabi. The Japanese believe in making every detail count. So does Flipboard.
+* If they feel that something doesn't work, they go back to the drawing board and try something new.
+
+### Matt Rix, Magicule (Trainyard) ###
+
+<small>Twitter: [@mattrix](http://twitter.com/mattrix) | Website: [http://trainyard.ca](http://trainyard.ca)</small>
+
+* [Matt](http://magicule.com/) was a Flash developer, who felt disaffected with the work he was doing everyday and needed to make a game.
+* Doodling game ideas on a train lead to the idea of colour matching trains: the basic genesis of Trainyard.
+* Matt prototyped the idea for Trainyard in Flash but realised it would be better as an iPhone app. So he learned [Cocos2D](http://www.cocos2d-iphone.org/) and built a test game called Quaddy, a purely test app that was never released.
+* As a sole developer, development takes time. Lots of time. The original idea for Trainyard was to work in Matt's spare time for 3 months. In reality, Trainyard took 10 months to develop, including 1 month where Matt worked on it full time, thanks to some paternity leave.
+* At release, Trainyard made about $30 a day, which at a price point of $2.99 worked out to be about $1,000 a month. The app wasn't featured and sales basically flattened out. But not exactly a huge return on the effort spent. It was important to keep calm and carry on. Matt read and followed up on the feedback tht he'd received.
+* Matt built a 'lite' version of the app, [Trainyard Express](http://itunes.apple.com/au/app/trainyard-express/id348724199?mt=8). But this app differed from standard lite apps as it was actually a completely independent fully-featured game, rather than a limited functionality game. It includes 60 puzzles that are completely different from the original game. It stands on its own as a game. This draws people in and gets them interested in solving more puzzles, and thereby encouraging them to buy the full game.
+* Being featured by Apple was the jackpot. This worked out to about $5,000 in a day of sales. But being featured only lasts 1 week (the App Store is updated every Thursday with new featured apps).
+* Capitalising on being featured, Matt experimented and dropped the price to $0.99 and wrote a [Reddit post](http://www.reddit.com/r/iphone/comments/dq8pz/dear_reddit_with_your_help_my_iphone_game_can/) about beating Angry Birds in the sales chart and framed it as a David vs Goliath battle.
+* Matt is a big fan of continually giving out sales figures and being honest. At the last count, the free version (Trainyard Express) had 4.3 million downloads and the paid app had 800,000 downloads.
+* There is no one single right tech tool. Like the Marines say, the right tool is the one you have on hand.
+* Determining the price point for games is basically a decision between $0.99 and $2.99 (or any other price, really). $0.99 is the cheapest price you can get and relies on general public buzz. It really needs Apple's PR to get you there or a vast public interest. $2.99 or $3.99/etc is a price point that outside promotion can have an effect on, like finding niche interest forums, etc.
+* Should you go for paid or free apps? Indie developers should pursue freemium (free + IAP) as the free charts are a lot more fluid (and therefore easier for small developers to get into) as opposed to the paid charts, but you can still make money off the users who have downloaded your app even if you're no longer in the top 10 (or you drop off the top sales charts).
+* There is no luck or randomness in app success. Real humans buy your app, write reviews, feature your app. You need to get them personally invested.
+* People are very interested in your story, your background: 'the mythology' of the story.
+* Do your research. Use your competitors apps - learn what works, what doesn't. Research what your customers think.
+* Give specific moments of delight to your customers. That's Apple's design thinking. This process is intrinsic to games: solving puzzles is rewarding and delights. With non-games, it's harder to do this.
+* Trainyard has some hidden easter eggs to keep users interested. For example, pulling too far right will play a video and display some silly pictures. This builds buzz and that delight - if people find that easter egg, people will share it. Don't forget that it could be anyone that finds that easter egg, even a journalist or a blogger!
+* Know your personal goals. Determine your personal goals and write them somewhere that you will see everyday. It will keep you going.
+* Work towards your goal everyday. Do a little bit everyday. It doesn't have to be coding, you can sit in front of your TV with a sketchbook and try out new ideas.
+* Work on projects that you enjoy and excite you.
+
+### Justin Williams, Second Gear (Elements) ###
+
+<small>Twitter: [@justin](http://twitter.com/justin) | Website: [http://www.secondgearsoftware.com](http://www.secondgearsoftware.com)</small>
+
+* Find the simple idea. [Elements](http://itunes.apple.com/us/app/elements-for-dropbox-markdown/id382752422?mt=8) is a simple, clean Dropbox text editor.
+* Target a specific product niche. This makes it easier to determine success. In Justin's case, he targets productivity apps for nerds. Their requirements are that the app has got to work, that it's fast, that it has a clean, neat design. Build an app that meets those requirements and you'll (probably) have a successful app.
+* Why would you chose working for a startup after building an indie business? Justin chose to switch to a startup ([Hipstamatic](http://hipstamatic.com/)) because he got burned out. It's hard maintaining a business - you can't experiment as you're in BaU (Business as Usual) mode, not to mention that running a business itself is boring/annoying.
+* Support is a painful process - you can't outsource all support as you'll miss some details in the process.
+* Justin also chose working for a startup because he'd plateaued in his development knowledge - learning from others, like he would at a startup, is essential.
+* How does Justin get over the fear of the unknown (like jumping into a startup)? To just do it!
+
+### Panel Discussion ###
+
+One More Thing has released the video of the Q&A panel discussion [here](http://player.vimeo.com/video/45387716):
+
+<iframe src="http://player.vimeo.com/video/45387716" width="400" max-width="400" height="300" max-height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+My notes for the session were:
+
+* At what point is a product a failure, and you should bail and move on? When you no longer use it yourself (Justin Williams).
+* What are your feelings on In-App Purchases? Paid apps that have in-app purchases attract lots of hate from consumers, but free apps with IAP are acceptable and don’t attract that hate (Kepa Auwae).
+* Pricing boils down to $0.99 and everything else. $0.99 is the cheapest price you can have on the App Store and therefore the commodity pricing level.
+* How do you find new talent or help? If it's design help that you need, use [Dribbble](http://dribbble.com/) to find up & coming/newbie designers. If you need help with support, don't outsource your support when you start out. Find people who love your product to do your support for you. Investigate 3rd parties. Whatever you do, *don't outsource the secret sauce of your app*. If your app relies on an unique tech offering, don't outsource your tech stack.
+* Do the smallest set of features that solve a problem and *be great* at that (that's the Apple way). Focus on *one thing* that makes your app different, and then get that out. Release it and get feedback faster. (Igor Pušenjak)
+* Should you build a cross-platform app? No was the consensus. The pros of building a cross-platform app: improved brand awareness of your company, you need to build one for enterprise compatibility, or you want your company to go to IPO (you want to show that you have the technical ability to do it before getting bought out). The cons: the development is a nightmare and there is no money in it. Remember, would you use it personally? Probably not. Apparently BlackBerry is so desperate to get developers to build on BB that they are spamming iOS developers to build BB apps (never mind that they'll earn no profit in the BB marketplace).
+* Strange fact: app purchases on Android sends a lot of detailed information to the developer.
+* Should you utilise a game publisher (eg. [Zynga](https://zynga.com/)) for your app? No was the consensus. The pros: they can help to build buzz for your game if you're new or unknown. Some publishers have good testing/feedback, which can improve the quality of your game and the chance of it's success. The cons: they won't help you, they're annoying and you lose your IP. This kills the brand. Perhaps it's worth trialling them for your first game, use them and learn from them, then get out (Matt Rix). Key takeaway: games publishers can accelerate a game's success but not generate it.
+* Submit your app/update 1 month before the release date - this helps you send out promo codes for your app, and games reviewers can review your app at their own pace. Get the timing right on your PR to coincide with your major releases. This really helps boost sales as people see the update/release in their news as well as the App Store. The worst case would be to get lots of press but not have your app available to download yet!
+* If you're struggling with development or you're in a bit of a rut, you can use PR as a mindset switch from tech work. Having to sell your app reminds you of the reasons why you love your app and reignites your passion.
+* How would you handle paid upgrades? Apple hasn't come up with a good answer to this problem and you're likely to annoy some of your users no matter what you do. Potentially you could give old version users with a specific promo code for use with the new app. You could use a secret unlock code for the new app.
+
+{% img /images/posts/one-more-thing/omt2012-notes.jpg Scribbled notes from One More Thing 2012 %}
+
+*Scribbled notes from One More Thing 2012*

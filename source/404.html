@@ -1,0 +1,19 @@
+---
+layout: page
+title: "Sorry :("
+comments: false
+sharing: false
+footer: fasle
+---
+
+<p>
+It looks like you have requested something that isn't there. Were you looking for one of my recent posts instead?
+</p>
+
+<div id="blog-archives" class="missing">
+{% for post in site.posts limit: 6 %}
+<article>
+  {% include archive_post.html %}
+</article>
+{% endfor %}
+</div>
