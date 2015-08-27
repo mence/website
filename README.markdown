@@ -1,6 +1,8 @@
 Tim Hordern
 ===========
 
+[![Build Status](https://travis-ci.org/mence/website.svg?branch=master)](https://travis-ci.org/mence/website)
+
 My personal blog which lives at [http://www.timhordern.com](http://www.timhordern.com)
 
 Dependencies:
