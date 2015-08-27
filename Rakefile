@@ -426,7 +426,7 @@ desc "deploy basic rack app to heroku"
       message = "Site updated at #{Time.now.utc}"
       system "git commit -m '#{message}'"
       puts "\n## Pushing generated #{deploy_dir} website"
-      system "git push qa-heroku #{deploy_branch}"
+      system "git push -f qa-heroku #{deploy_branch}"
       puts "\n## Heroku deploy complete"
     end
   end
