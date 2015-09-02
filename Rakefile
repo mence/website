@@ -2,10 +2,18 @@ require "rubygems"
 require "bundler/setup"
 #require "stringex"
 
+# Custom Configuration for S3
+deploy_default  = "s3" # before migrating to S3 it was set to "rsync" for instance
+s3_bucket_prd   = "www.timhordern.com"
+s3_bucket_qa    = "timhordern-qa"
+aws_cli_path    = "/usr/local/bin/aws" # path to your installed aws CLI
+aws_region      = "us-east-1" # the bucket is set to US
+aws_read_mode   = "uri=http://acs.amazonaws.com/groups/global/AllUsers" # needed to set upload rights so that everybody will have access to the content
+
 # Custom Configuration for Heroku
-deploy_default = "heroku"
+#deploy_default = "heroku"
 deploy_branch  = "master"
-deploy_dir      = "_heroku"
+#deploy_dir      = "_heroku"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
@@ -430,3 +438,21 @@ desc "deploy basic rack app to heroku"
       puts "\n## Heroku deploy complete"
     end
   end
+
+desc "Deploy website to S3 QA & Production"
+task :s3 => [:s3_qa, :s3_prd] do
+end
+
+desc "Deploy website via aws s3 sync to S3 QA bucket"
+task :s3_qa do
+  puts "## ⚡  Deploying website via aws s3 sync to QA"
+  ok_failed system("#{aws_cli_path} s3 sync public/ s3://#{s3_bucket_qa}/ --region #{aws_region} --grants read=#{aws_read_mode}")
+  puts "## QA website should be available at http://#{s3_bucket_qa}.s3-website-#{aws_region}.amazonaws.com"
+end
+
+desc "Deploy website via aws s3 sync to S3 Production bucket"
+task :s3_prd do
+  puts "## ⚡️  Deploying website via aws s3 sync to Production"
+  ok_failed system("#{aws_cli_path} s3 sync public/ s3://#{s3_bucket_prd}/ --region #{aws_region} --grants read=#{aws_read_mode}")
+  puts "## Production website should be available at http://#{s3_bucket_prd}"
+end
