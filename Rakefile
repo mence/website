@@ -60,7 +60,7 @@ end
 # Working with Jekyll #
 #######################
 
-desc "Generate jekyll site"
+desc "Generate Jekyll site"
 task :generate do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   puts "## Generating Site with Jekyll"
@@ -84,7 +84,7 @@ task :watch do
   [jekyllPid, compassPid].each { |pid| Process.wait(pid) }
 end
 
-desc "preview the site in a web browser"
+desc "Preview the site in a web browser"
 task :preview do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   puts "Starting to watch source with Jekyll and Compass. Starting Rack on port #{server_port}"
@@ -256,10 +256,10 @@ task :rsync do
   ok_failed system("rsync -avze 'ssh -p #{ssh_port}' #{exclude} #{rsync_args} #{"--delete" unless rsync_delete == false} #{public_dir}/ #{ssh_user}:#{document_root}")
 end
 
-desc "deploy public directory to github pages"
+desc "Deploy public directory to GitHub pages"
 multitask :push do
-  puts "## Deploying branch to Github Pages "
-  puts "## Pulling any updates from Github Pages "
+  puts "## Deploying branch to GitHub Pages "
+  puts "## Pulling any updates from GitHub Pages "
   cd "#{deploy_dir}" do
     Bundler.with_clean_env { system "git pull" }
   end
@@ -274,7 +274,7 @@ multitask :push do
     system "git commit -m \"#{message}\""
     puts "\n## Pushing generated #{deploy_dir} website"
     Bundler.with_clean_env { system "git push origin #{deploy_branch}" }
-    puts "\n## Github Pages deploy complete"
+    puts "\n## GitHub Pages deploy complete"
   end
 end
 
